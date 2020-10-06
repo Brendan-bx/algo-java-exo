@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+
     static void Tableau(int[] scores) {
         for (int i = 0; i < scores.length; i++) { //affichage du tableau
             int score = scores[i];
